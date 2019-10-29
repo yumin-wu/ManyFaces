@@ -6,3 +6,7 @@
     background-color:#708090;
     background-size: 64px 128px;
 }
+
+.textbox {
+    z-index: 5;
+}
